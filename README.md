@@ -9,7 +9,7 @@
 
 - 👯 I’m looking forward to collaborate on open source projects.
 
-- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/sarath-pm)**
+- 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/Zuryss/Zuryss)**
 
 - 😄 Pronouns: He/Him/We
 
